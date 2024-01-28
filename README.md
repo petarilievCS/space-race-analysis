@@ -1,4 +1,4 @@
-# Jupyter Notebook Analysis
+# Space Race Analysis
 
 This Jupyter Notebook contains an analysis of space mission data. It explores various aspects of space missions, including launch statistics, mission outcomes, and trends over time. The analysis is performed using Python and several libraries, including Pandas, Matplotlib, and Plotly.
 
